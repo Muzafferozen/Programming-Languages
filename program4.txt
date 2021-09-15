@@ -1,0 +1,10 @@
+basla
+ondalik(sayi,3.14);
+harf(kelime,c);
+eger(yanlis){
+topla(x,3,5);
+}
+degilse{
+cikar(x,3,5);
+}
+

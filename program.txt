@@ -1,0 +1,5 @@
+basla
+dongu(dogru){
+tamsayi(x,3);
+cikar(fark,5,3);
+}

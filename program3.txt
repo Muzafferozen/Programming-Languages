@@ -1,0 +1,8 @@
+basla
+tamsayi(y,4)
+cikar(fark,5,2);
+eger(dogru){
+carp(sonuc,3,5);
+}
+
+//HATALI KOD ÖRNEÐÝ//

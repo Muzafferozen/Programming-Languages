@@ -1,0 +1,5 @@
+basla
+yaz(^merhaba^);
+eger(dogru){
+isim ata omer ;
+}
